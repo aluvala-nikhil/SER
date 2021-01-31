@@ -1,2 +1,2 @@
 # CallerSER
-To classify callers to call-centers based on their emotions
+To improve the customer service by taking the emotions of customers and analyizing based on it. 
