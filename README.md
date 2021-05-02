@@ -1,6 +1,8 @@
 # SER
 To give an output of emotion to the input of speech
+
 What is RAVDESS?
+
 The Ryerson Audio-Visual Database of Emotional Speech and Song (RAVDESS)
 The Ryerson Audio-Visual Database of Emotional Speech and Song (RAVDESS) contains 7356 files (total size: 24.8 GB). 
 The database contains 24 professional actors (12 female, 12 male), vocalizing two lexically-matched statements in a neutral North American accent. 
